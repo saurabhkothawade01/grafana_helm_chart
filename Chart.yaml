@@ -1,0 +1,5 @@
+piVersion: v1
+name: grafana
+version: 0.2
+appVersion: 1.1
+description: This is a Helm Chart for Grafana Setup.

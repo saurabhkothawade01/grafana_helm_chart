@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  grafana:
+  - apiVersion: v1
+    appVersion: "1.1"
+    created: "2021-07-16T12:52:18.254278376+05:30"
+    description: This is a Helm Chart for Grafana Setup.
+    digest: a02be92fe10e11ce53085eab24bea9e29f068c4595f276c4c534873a998ad4dd
+    name: grafana
+    urls:
+    - grafana-0.2.tgz
+    version: "0.2"
+generated: "2021-07-16T12:52:18.253523268+05:30"
